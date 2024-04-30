@@ -8,8 +8,17 @@
 - 📫 How to reach me: My E-mail: herh5@mail2.sysu.edu.cn
 
 <!--### About my Github status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RonghaiHe&&theme=github_dark_dimmed&show_icons=true&include_all_commits=true)
+<table>
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonghaiHe&hide_border=true&layout=compact&langs_count=6&theme=github_dark_dimmed" /> </div>-->
+<tr><td align="center" width="65%">
+    
+[![Ronghai He's github stats](https://github-readme-stats.vercel.app/api?username=RonghaiHe&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github.com/RonghaiHe/github-readme-stats)
+
+</td><td align="center" width="35%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonghaiHe&layout=compact&langs_count=6&theme=github_dark_dimmed)](https://github.com/RonghaiHe/github-readme-stats)
+
+</table>
+</td></tr>-->
 
 [![R. He's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RonghaiHe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
