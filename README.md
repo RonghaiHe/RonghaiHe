@@ -8,7 +8,7 @@
 - 📫 How to reach me: My E-mail: herh5@mail2.sysu.edu.cn
 
 <!--### About my Github status
-<table>
+<div align="center"><table>
 
 <tr><td align="center" width="65%">
     
@@ -17,8 +17,7 @@
 </td><td align="center" width="35%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonghaiHe&layout=compact&langs_count=6&theme=github_dark_dimmed)](https://github.com/RonghaiHe/github-readme-stats)
-
-</table>
-</td></tr>-->
+</td></tr>
+</table></div>-->
 
 [![R. He's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RonghaiHe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
