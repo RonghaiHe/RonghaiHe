@@ -1,14 +1,20 @@
 ### Hello, welcome to my github website  👋
 
-- 🔭 I' m currently working on SYSU(Sun Yat-sen University) as a graduate student.
-- 🌱 I' m currently working on **VI-SLAM** and **multiple robot localization**, involving computer vision, robotics and sensor fusion.
-- 👯 I' m looking to collaborate on anyone who interests in **VI-SLAM**, **multiple robot cooperative localization** and **multi-agent** involved on **deep learning(DL)** and **reinforcement learning(RL)**.
-- 🤔 I' m looking for help with **old hands** in coding and the ones who I' m looking to collaborate on.
-- 💬 Ask me **anything about my work** like VI-SLAM problems in coding or mathematical formulas.
-- 📫 How to reach me: My E-mail: herh5@mail2.sysu.edu.cn
+- 🏫 I' m currently studying on SYSU(Sun Yat-sen University) pursuing my master's degree.
+- 🌱 I' m currently researching on **VI-SLAM**, **multiple robot localization** and **collaborative SLAM**, involving computer vision, robotics and sensor fusion.
+- 👯 I' m looking to collaborate on anyone who interests in **VI-SLAM**, **multiple robot cooperative localization** and **multi-agent**.
+- 🤝 I' m looking for help with **old hands** in coding and mathematical theory and the ones who I' m looking to collaborate on.
+- 🤔 I hope I could learn **deep learning(DL)**, **reinforcement learning(RL)** and **GPU programming**.
+- 💬 Ask me **anything about my research** like VI-SLAM problems in coding or mathematical formulas.
+- 📫 How to reach me: My E-mail: <a href="mailto:herh5@mail2.sysu.edu.cn"> herh5@mail2.sysu.edu.cn </a>
+
+### Ongoing Research 🏃
+<a href="https://github.com/RonghaiHe/Kimera-Multi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RonghaiHe&repo=Kimera-Multi&show_owner=true&theme=dracula" />
+</a>
 
 <!--### About my Github status
-<div align="center"><table>
+<div align="left"><table>
 
 <tr><td align="center" width="65%">
     
