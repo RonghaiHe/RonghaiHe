@@ -27,3 +27,38 @@
 </table></div>-->
 
 [![R. He's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RonghaiHe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<details>
+  <summary> A list about my sorted repositories </summary>
+
+### My sorted repositories 
+#### My Project
+##### Research
+* [RobustCL](https://github.com/RonghaiHe/RobustCL): A repository corresponding to my paper: *Robust Cooperative Localization with Failed Communication and Biased Measurements*;
+* [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi): A repository corresponding to my ongoing research based on the research from [MIT-SPARK](https://github.com/MIT-SPARK);
+* [nlink_parser](https://github.com/RonghaiHe/nlink_parser): A repository about multi-UWB, forked from [nooploop](https://github.com/nooploop-dev);
+
+##### Fun
+* [RonghaiHe](https://github.com/RonghaiHe/RonghaiHe): Repository of my own github profile;
+
+#### Note
+* [Notes_cpp_project](https://github.com/RonghaiHe/Notes_cpp_project): Some notes from awesome cpp projects;
+* [intall_app_in_ubuntu_tutorial](https://github.com/RonghaiHe/intall_app_in_ubuntu_tutorial): Some frequent application installation tutorial in ubuntu;
+
+#### Other Forked Repositories
+##### For research
+* [ORB_SLAM3](https://github.com/RonghaiHe/ORB_SLAM3): A famous SLAM repository from [UZ-SLAMLab](https://github.com/UZ-SLAMLab);
+* [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO): A famous SLAM repository from [MIT-SPARK](https://github.com/MIT-SPARK);
+* [D2SLAM](https://github.com/RonghaiHe/D2SLAM): A famous CSLAM repository from [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics);
+* [multirobot_localization_tsangkai_utias](https://github.com/multirobot_localization_tsangkai_utias): A CL repository from a Ph.D. [tsangkai](https://github.com/tsangkai) to run UTIAS dataset;
+* [multirobot_localization_tsangkai](https://github.com/multirobot_localization_tsangkai): A CL repository from a Ph.D. [tsangkai](https://github.com/tsangkai);
+
+##### For Pull Request
+* [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed): Fix path names in RViz;
+* [Kimera-Multi-LCD](https://github.com/RonghaiHe/Kimera-Multi-LCD): Fix order of make;
+* [LaTeX_OCR_PRO](https://github.com/RonghaiHe/LaTeX_OCR_PRO): Fix codes for latest version; 
+
+##### For fun
+* [ctrip_spider_frame](https://github.com/RonghaiHe/ctrip_spider_frame): Try collecting infomation from crawler
+</details>
