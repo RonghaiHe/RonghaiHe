@@ -37,7 +37,6 @@
 ##### Research
 * [RobustCL](https://github.com/RonghaiHe/RobustCL): A repository corresponding to my paper: *Robust Cooperative Localization with Failed Communication and Biased Measurements*;
 * [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi): A repository corresponding to my ongoing research based on the research from [MIT-SPARK](https://github.com/MIT-SPARK);
-  * [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed): A sub repository
 * [nlink_parser](https://github.com/RonghaiHe/nlink_parser): A repository about multi-UWB, forked from [nooploop](https://github.com/nooploop-dev);
 
 ##### Fun
@@ -49,11 +48,11 @@
 
 #### Other Forked Repositories
 ##### For research
-* [ORB_SLAM3](https://github.com/RonghaiHe/ORB_SLAM3): A famous SLAM repository from [UZ-SLAMLab](https://github.com/UZ-SLAMLab);
-* [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO): A sub repository about [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi) from [MIT-SPARK](https://github.com/MIT-SPARK);
-* [D2SLAM](https://github.com/RonghaiHe/D2SLAM): A famous CSLAM repository from [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics);
 * [multirobot_localization_tsangkai_utias](https://github.com/multirobot_localization_tsangkai_utias): A CL repository from a Ph.D. [tsangkai](https://github.com/tsangkai) to run UTIAS dataset;
 * [multirobot_localization_tsangkai](https://github.com/multirobot_localization_tsangkai): A CL repository from a Ph.D. [tsangkai](https://github.com/tsangkai);
+* [ORB_SLAM3](https://github.com/RonghaiHe/ORB_SLAM3): A famous SLAM repository from [UZ-SLAMLab](https://github.com/UZ-SLAMLab);
+* [D2SLAM](https://github.com/RonghaiHe/D2SLAM): A famous CSLAM repository from [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics);
+* Kimera-* (except Kimera-Multi): [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO), [Kimera-VIO-ROS](https://github.com/RonghaiHe/Kimera-VIO-ROS), [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed), [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO): Sub repositories about [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi) from [MIT-SPARK](https://github.com/MIT-SPARK);
 
 ##### For Pull Request
 * [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed): Fix path names in RViz;
@@ -62,8 +61,7 @@
 * [LaTeX_OCR_PRO](https://github.com/RonghaiHe/LaTeX_OCR_PRO): Fix codes for latest version;
 
 These are what I just modified without Pull Request
-* [Kimera-VIO-ROS](https://github.com/RonghaiHe/Kimera-VIO-ROS): Change back to avoid conflict with old version [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO)
-* [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO): Add `Boost::timer` in `CMakeLists.txt`
+* [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO): Add `Boost::timer` in `CMakeLists.txt`  and `chrono` in cpp
 
 ##### For fun
 * [ctrip_spider_frame](https://github.com/RonghaiHe/ctrip_spider_frame): Try collecting infomation from crawler
