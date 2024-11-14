@@ -1,10 +1,10 @@
 ### Hello, welcome to my github website  👋
 
-- 🏫 I' m currently studying on SYSU(Sun Yat-sen University) pursuing my master's degree.
-- 🌱 I' m currently researching on **VI-SLAM**, **multiple robot localization** and **collaborative SLAM**, involving computer vision, robotics and sensor fusion.
-- 👯 I' m looking to collaborate on anyone who interests in **VI-SLAM**, **multiple robot cooperative localization** and **multi-agent**.
-- 🤝 I' m looking for help with **old hands** in coding and mathematical theory and the ones who I' m looking to collaborate on.
-- 🤔 I hope I could learn **deep learning(DL)**, **reinforcement learning(RL)** and **GPU programming**.
+- 🏫 Studying on SYSU(Sun Yat-sen University) pursuing my master's degree.
+- 🌱 Researching on **VI-SLAM**, **multiple robot localization** and **collaborative SLAM**, involving computer vision, robotics and sensor fusion.
+- 👯 Looking to collaborate on anyone who interests in **VI-SLAM**, **multiple robot cooperative localization** and **multi-agent**.
+- 🤝 Looking for help with **old hands** in coding and mathematical theory and the ones who I' m looking to collaborate on.
+- 🤔 Wish to learn **deep learning(DL)**, **reinforcement learning(RL)** and **GPU programming**.
 - 💬 Ask me **anything about my research** like VI-SLAM problems in coding or mathematical formulas.
 - 📫 How to reach me: My E-mail: <a href="mailto:herh5@mail2.sysu.edu.cn"> herh5@mail2.sysu.edu.cn </a>
 
@@ -52,13 +52,14 @@
 * [multirobot_localization_tsangkai](https://github.com/multirobot_localization_tsangkai): A CL repository from a Ph.D. [tsangkai](https://github.com/tsangkai);
 * [ORB_SLAM3](https://github.com/RonghaiHe/ORB_SLAM3): A famous SLAM repository from [UZ-SLAMLab](https://github.com/UZ-SLAMLab);
 * [D2SLAM](https://github.com/RonghaiHe/D2SLAM): A famous CSLAM repository from [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics);
-* Kimera-* (except Kimera-Multi): [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO), [Kimera-VIO-ROS](https://github.com/RonghaiHe/Kimera-VIO-ROS), [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed), [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO): Sub repositories about [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi) from [MIT-SPARK](https://github.com/MIT-SPARK);
+* Kimera-* (except Kimera-Multi): [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO), [Kimera-VIO-ROS](https://github.com/RonghaiHe/Kimera-VIO-ROS), [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed), [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO), [Kimera-Multi-LCD](https://github.com/RonghaiHe/Kimera-Multi-LCD), [dpgo](https://github.com/RonghaiHe/dpgo), [dpgo_ros](https://github.com/RonghaiHe/dpgo_ros): Sub repositories about [Kimera-Multi](https://github.com/RonghaiHe/Kimera-Multi) from [MIT-SPARK](https://github.com/MIT-SPARK);
 
 ##### For Pull Request
 * [Kimera-Distributed](https://github.com/RonghaiHe/Kimera-Distributed): Fix path names in RViz;
 * [Kimera-Multi-LCD](https://github.com/RonghaiHe/Kimera-Multi-LCD): Fix order of make;
 * [Kimera-VIO](https://github.com/RonghaiHe/Kimera-VIO): Fix visibility of a function in one branch;
 * [LaTeX_OCR_PRO](https://github.com/RonghaiHe/LaTeX_OCR_PRO): Fix codes for latest version;
+* [gpt_academic](https://github.com/RonghaiHe/gpt_academic): To classify the conclusion of code intepretation more reasonably
 
 These are what I just modified without Pull Request
 * [Kimera-PGMO](https://github.com/RonghaiHe/Kimera-PGMO): Add `Boost::timer` in `CMakeLists.txt`  and `chrono` in cpp
